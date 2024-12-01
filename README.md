@@ -98,7 +98,7 @@ Training involves:
 
 | Model                     | MSE       | R²     |
 |---------------------------|-----------|--------|
-| GradientBoosting | XX.XX  | 0.000281  | 0.9844 |
+| GradientBoosting          | 0.000281  | 0.9844 |
 | XGBoost                   | 0.000362  | 0.9799 |
 | Random Forest             | 0.000356  | 0.9802 |
 | LightGBM                  | 0.000945  | 0.9476 |
